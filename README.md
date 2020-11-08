@@ -17,7 +17,7 @@ If you have problems installing the pyperclip module, please visit the [link to 
 1. Open the document that you need to import the phone numbers and email addresses.
 1. Press 'control + a', or select the part which is necessary for you.
 1. Run the program, via .py, IDLE or cmd.
-1. You can see the scraped phone numbers and email addresses in your screen.
+1. You can see the scraped phone numbers and email addresses on your screen.
 1. All those phone numbers and email addresses were also copied to your clipboard. Paste it to see those results.
 
 ## Note
