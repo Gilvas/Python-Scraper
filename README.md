@@ -9,7 +9,7 @@ Make sure you have installed [Python 3](https://www.python.org/downloads/) in yo
 
 - open the Command Prompt (cmd)
 - type 'pip install pyperclip'
-- check if the pyperclip module has been succesfully installed
+- check if the pyperclip module has been successfully installed
 
 If you have problems installing the pyperclip module, please visit the [link to pyperclip](https://pypi.org/project/pyperclip/).
 
